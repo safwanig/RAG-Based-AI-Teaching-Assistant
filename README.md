@@ -124,12 +124,4 @@ B.Tech CSE, NIT Durgapur | Passionate about Data Science & AI
 
 ```
 
----
-
-🔹 **Suggested GitHub Repo Description (for the repo settings):**  
-> A Retrieval-Augmented Generation (RAG) powered AI Teaching Assistant that converts lecture videos into structured knowledge and answers student queries using contextual transcripts.  
-
----
-
-Do you also want me to **auto-generate a `requirements.txt`** from your project so setup is easier for anyone cloning your repo?
 ```
