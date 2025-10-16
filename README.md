@@ -102,21 +102,6 @@ Examples: <header>, <footer>, <article>, <section>.
 They improve accessibility and SEO by clearly defining content roles.
 ```
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-Feel free to fork the repo, open issues, or submit PRs.
-
----
-
-## 📜 License
-
-MIT License. See `LICENSE` file for details.
-
----
-
 ## 👨‍💻 Author
 
 **Md Safwan**
